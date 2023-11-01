@@ -1,1 +1,72 @@
-# muslimaOk.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="img/logo.jpg">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1>About me</h1><br>
+        <p>My name is Muslima, and I'm 18. At the moment I'm sophomore student at INHA University in Tashkent. ^-^, I like reading mangas and webtoon, watching anime and kdramas. I also listen kpop and phonk music :) This was my sample website for project</p>
+    </div>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h2>My Classes This Quarter</h2>
+            <ul>
+              <li>Academic English Reading [202202-GEN1020-003]</li>
+              <li>Academic English 1 [202202-GEN1021-003]</li>
+              <li>Pre-calculus [202202-MSC1010-001]</li>
+              <li>Physics 1 [202202-MSC1021-001]</li>
+              <li>Physics Experiment 1 [202202-MSC1031-003]</li>
+              <li>Object Oriented Programming 1 [202202-MSC1051-002]</li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <h2>My Favorite Animes :)</h2>
+            <ol>
+              <li>Your Name (<a href="https://www.imdb.com/title/tt5311514/" target="_blank">IMDB</a>)</li>
+              <li>Horimiya (<a href="https://www.imdb.com/title/tt13103134/" target="_blank">IMDB</a>)</li>
+              <li>Chainsawman (<a href="https://www.imdb.com/title/tt13616990/" target="_blank">IMDB</a>)</li>
+            </ol>
+          </div>
+        </div><hr><br>
+        <div class="row">
+          <div class="col-md-6">
+            <h2>Fun Facts about my neighbours:</h2>
+            <ul>
+              <li>They always has funny memes about assembler on his desktop wallpapers</li>
+              <li>Can rap in German, French and English</li>
+              <li>Always comes early to the University</li>
+            </ul>
+          </div>
+          <div align="col-md-6" style="margin-left: 131px;">
+            <h2>My Moods</h2>
+            <div class="row ROW2">
+                <div class="mood_block">
+                  <p align="center">Happy:</p>
+                  <img src="img/smile.png" alt="" class="smile">
+                </div>
+                <div class="mood_block second_block">
+                  <p align="center">Sad:</p>
+                  <img src="img/sad.png" alt="">
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.js"></script>
+</body>
+</html>
