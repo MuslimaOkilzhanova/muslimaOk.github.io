@@ -1,0 +1,38 @@
+.jumbotron{
+    position: sticky;
+    position: -webkit-sticky;
+    text-align: center;
+    background-image: url(img/bckgrndjpg.jpg);
+}
+body{
+    /* background-image: linear-gradient(135deg, #189AB4, aquamarine, aqua);
+     */
+    background-color: ;
+    font-family: "Copperplate";
+  }
+  img{
+    height: 150px;
+    width: auto;
+  }
+  .mood_block{
+    width: 150px;
+    height: 150px;
+  }
+  .second_block{
+    margin-left: 37.5px;
+  }
+  .third_block{
+    margin-left: 37.5px;;
+  }
+  .about{
+    padding-left: ;
+  }
+  h2{
+    text-align: center;
+  }
+  .col-md-6{
+    margin-top: 25px;
+  }
+  .smile{
+    border-radius: 50%;
+  }
